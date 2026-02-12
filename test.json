@@ -1,12 +1,22 @@
-[
-    "ABC12-DEF34-GHI56-JKL78-MNO90",
-    "PQR12-STU34-VWX56-YZA78-BCD90",
-    "EFG12-HIJ34-KLM56-NOP78-QRS90",
-    "TUV12-WXY34-ZAB56-CDE78-FGH90",
-    "IJK12-LMN34-OPQ56-RST78-UVW90",
-    "XYZ12-ABC34-DEF56-GHI78-JKL90",
-    "MNO12-PQR34-STU56-VWX78-YZA90",
-    "BCD12-EFG34-HIJ56-KLM78-NOP90",
-    "QRS12-TUV34-WXY56-ZAB78-CDE90",
-    "FGH12-IJK34-LMN56-OPQ78-RST90"
-]
+{
+  "keys": [
+    {
+      "id": "3UIK-0080-GUGP-L5E5-I1NW",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2028-01-01"
+    },
+    {
+      "id": "ABCD-1234-EFGH-5678-IJKL",
+      "name": "RustSpecter Pro",
+      "status": "active",
+      "expiry": "2027-06-01"
+    },
+    {
+      "id": "WXYZ-9876-UVWX-5432-RSTU",
+      "name": "RustSpecter Elite",
+      "status": "inactive",
+      "expiry": "2026-12-31"
+    }
+  ]
+}
