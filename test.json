@@ -8,20 +8,14 @@
     },
     {
       "id": "ABCD-1234-EFGH-5678-IJKL",
-      "name": "RustSpecter",
+      "name": "RustSpecter Pro",
       "status": "active",
       "expiry": "2027-06-01"
     },
     {
       "id": "WXYZ-9876-UVWX-5432-RSTU",
-      "name": "RustSpecter",
-      "status": "inactive",
-      "expiry": "2026-12-31"
-    },
-    {
-      "id": "QYWB-9876-AFAC-7335-ASXU",
-      "name": "RustSpecter",
-      "status": "inactive",
+      "name": "RustSpecter Elite",
+      "status": "active",
       "expiry": "2026-12-31"
     }
   ]
