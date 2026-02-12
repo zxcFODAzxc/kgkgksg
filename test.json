@@ -1,20 +1,62 @@
 {
   "keys": [
     {
-      "id": "3UIK-0080-GUGP-L5E5-I1NW",
+      "id": "R8SX-4H9K-M2PN-6W3Q-L7ZB",
       "name": "RustSpecter",
       "status": "active",
-      "expiry": "2028-01-01"
+      "expiry": "2026-03-31"
     },
     {
-      "id": "ABCD-1234-EFGH-5678-IJKL",
-      "name": "RustSpecter Pro",
+      "id": "T1YC-5A8L-N3QO-7X4R-M8AC",
+      "name": "RustSpecter",
       "status": "active",
-      "expiry": "2027-06-01"
+      "expiry": "2026-04-30"
     },
     {
-      "id": "WXYZ-9876-UVWX-5432-RSTU",
-      "name": "RustSpecter Elite",
+      "id": "U2ZD-6B9M-O4RP-8Y5S-N9BD",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2026-05-31"
+    },
+    {
+      "id": "V3AE-7C0N-P5SQ-9Z6T-OACE",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2026-06-30"
+    },
+    {
+      "id": "W4BF-8D1O-Q6TR-A07U-PBDF",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2026-07-31"
+    },
+    {
+      "id": "X5CG-9E2P-R7US-B18V-QCEG",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2026-08-31"
+    },
+    {
+      "id": "Y6DH-0F3Q-S8VT-C29W-RDFH",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2026-09-30"
+    },
+    {
+      "id": "Z7EI-1G4R-T9WU-D30X-SEGI",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2026-10-31"
+    },
+    {
+      "id": "A8FJ-2H5S-U0XV-E41Y-TFHJ",
+      "name": "RustSpecter",
+      "status": "active",
+      "expiry": "2026-11-30"
+    },
+    {
+      "id": "B9GK-3I6T-V1YW-F52Z-UGIK",
+      "name": "RustSpecter",
       "status": "active",
       "expiry": "2026-12-31"
     }
